@@ -5,6 +5,10 @@ The main objective of the SmartScan project is to design and develop a dashboard
 
 ### 🎥 Project Demo
 
+
+https://github.com/mohamedaminenajjar/Smartscan/assets/152156763/15054ed6-27c9-43cc-a34a-e9932c1f3cfa
+
+
 ## 📁 Project Structure
 The SmartScan project is divided into three main parts:
 
